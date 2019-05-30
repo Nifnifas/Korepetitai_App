@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name" translatable="false">Mano aplikacija</string>
+    <string name="apie" translatable="false">Apie</string>
+    <string name="profilis" translatable="false">Profilis</string>
+    <string name="skaiciavimai" translatable="false">Skaičiavimai</string>
+    <string name="sveiki" translatable="false">Sveiki!</string>
+    <string name="langas2">Calculation activity langas</string>
+    <string name="suma">Suma</string>
+    <string name="nuo">Nuo</string>
+    <string name="iki">Iki</string>
+    <string name="atsakymas">Atsakymas</string>
+    <string name="skai_iuoti">Skaičiuoti</string>
+    <string name="lygPagr">Lyginiai</string>
+    <string name="lyg">Lyginiai</string>
+    <string name="logo">logo</string>
+    <string name="login">Prisijungimas</string>
+    <string name="profileUpdate">Profilio atnaujinimas</string>
+    <string name="hint_email">El. Paštas</string>
+    <string name="hint_password">Slaptažodis</string>
+    <string name="login_button">Prisijungti</string>
+    <string name="register">Registracija</string>
+    <string name="reg">Registruotis</string>
+    <string name="not_member">Dar ne narys?</string>
+    <string name="name">Vardas</string>
+    <string name="surname">Pavardė</string>
+    <string name="phone">Telefono nr.</string>
+    <string name="search">Paieška</string>
+    <string name="home">Pagrindinis</string>
+    <string name="profile">Paskyra</string>
+    <string name="categories">Kategorijos</string>
+    <string name="favourite">Pažymėti</string>
+    <string name="searchBox">Įveskite raktažodį</string>
+    <string name="searchButton">Ieškoti</string>
+
+    <string name="catPop">Populiariausi</string>
+    <string name="catMath">Matematika</string>
+    <string name="catLt">Lietuvių k.</string>
+    <string name="catIt">Informatika</string>
+    <string name="catFz">Fizika</string>
+    <string name="catCh">Chemija</string>
+    <string name="catEn">Anglų k.</string>
+
+    <string name="user">Vardenis Pavardenis</string>
+    <string name="role">Rolė</string>
+    <string name="subject">Dalykas</string>
+    <string name="city">Miestas</string>
+    <string name="about">Trumpas aprašymas</string>
+    <string name="contacts">Kontaktai</string>
+    <string name="userEdit">Atnaujinti duomenis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
