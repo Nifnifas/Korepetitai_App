@@ -39,7 +39,7 @@ public class HomeFragment extends Fragment implements CardView.OnClickListener {
     private ProgressBar loading;
     SessionManager sessionManager;
 
-    private static String URL_TOP = "http://192.168.0.107/aplikacija/newest_members.php";
+    private static String URL_TOP = "http://10.151.24.151/aplikacija/newest_members.php";
 
     @Nullable
     @Override

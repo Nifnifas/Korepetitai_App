@@ -29,7 +29,7 @@ public class UserEditActivity extends AppCompatActivity {
     SessionManager sessionManager;
     private EditText name, surname, email, phone;
     private Button btn_edit;
-    private static String URL_EDIT = "http://192.168.0.107/aplikacija/edit_profile.php";
+    private static String URL_EDIT = "http://10.151.24.151/aplikacija/edit_profile.php";
     public String mID, mRole;
 
 

@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_login;
     private ProgressBar loading;
     SessionManager sessionManager;
-    private static String URL_LOGIN = "http://192.168.0.107/aplikacija/login.php";
+    private static String URL_LOGIN = "http://10.151.24.151/aplikacija/login.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

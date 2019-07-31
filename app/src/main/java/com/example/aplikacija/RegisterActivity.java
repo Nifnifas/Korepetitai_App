@@ -34,7 +34,7 @@ public class RegisterActivity extends AppCompatActivity implements AdapterView.O
     private Spinner spinner;
     private Button btn_reg;
     private ProgressBar loading;
-    private static String URL_REGIST = "http://192.168.0.107/aplikacija/register.php";
+    private static String URL_REGIST = "http://10.151.24.151/aplikacija/register.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
